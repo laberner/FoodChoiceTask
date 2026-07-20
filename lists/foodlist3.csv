@@ -1,0 +1,77 @@
+food,image,fat,available,trialstart,hilo,tempname,food_item
+stimuli/orange slices.jpg,45,0,1,0,lo,2,orange slices
+stimuli/Grapes.jpg,30,0,1,6,lo,1,Grapes
+stimuli/baguette oil.jpg,9,1,1,11,hi,2,baguette oil
+stimuli/doughnuts.jpg,24,1,1,17,hi,1,doughnuts
+stimuli/burger.jpg,14,1,0,22,hi,4,burger
+stimuli/mac & cheese.jpg,40,1,1,30,hi,2,mac & cheese
+stimuli/cucumber slices.jpg,22,0,1,36,lo,1,cucumber slices
+stimuli/turkey sandwich.jpg,72,0,1,41,lo,2,turkey sandwich
+stimuli/mushrooms.jpg,44,0,1,47,lo,1,mushrooms
+stimuli/raisins.jpg,52,0,1,52,lo,2,raisins
+stimuli/froot loops w milk.jpg,28,0,1,58,lo,1,froot loops w milk
+stimuli/grilled chicken strips.jpg,33,0,1,63,lo,8,grilled chicken strips
+stimuli/kiwi.jpg,37,0,0,75,lo,1,kiwi
+stimuli/PB.jpg,46,1,1,80,hi,1,PB
+stimuli/sour patch.jpg,63,0,1,85,lo,2,sour patch
+stimuli/Whole milk.jpg,73,1,1,91,hi,2,Whole milk
+stimuli/broccoli cauliflower.jpg,12,0,1,97,lo,2,broccoli cauliflower
+stimuli/baked potato.jpg,10,0,0,103,lo,7,baked potato
+stimuli/green beans.jpg,31,0,1,114,lo,2,green beans
+stimuli/string cheese.jpg,67,1,1,120,hi,5,string cheese
+stimuli/corn cob.jpg,21,0,0,129,lo,1,corn cob
+stimuli/baby cheese.jpg,6,1,1,134,hi,4,baby cheese
+stimuli/american cheese.jpg,3,1,1,142,hi,2,american cheese
+stimuli/soup with spoon.jpg,62,0,1,148,lo,1,soup with spoon
+stimuli/sushi w_condiments.jpg,68,0,1,153,lo,3,sushi w_condiments
+stimuli/mini muffins.jpg,42,1,1,160,hi,1,mini muffins
+stimuli/seaweed.jpg,60,0,1,165,lo,1,seaweed
+stimuli/mozzarella sticks.jpg,43,1,1,170,hi,1,mozzarella sticks
+stimuli/cookies.jpg,20,1,1,175,hi,1,cookies
+stimuli/steak.jpg,65,1,0,180,hi,2,steak
+stimuli/granola w milk.jpg,29,1,1,186,hi,2,granola w milk
+stimuli/soy chips.jpg,64,0,0,192,lo,5,soy chips
+stimuli/1permilk.jpg,1,0,1,201,lo,1,1permilk
+stimuli/rice cakes.jpg,54,0,1,206,lo,2,rice cakes
+stimuli/yogurt pretzels.jpg,76,1,1,212,hi,1,yogurt pretzels
+stimuli/Cheese nachos.jpg,16,1,0,217,hi,3,Cheese nachos
+stimuli/chicken nuggets2.jpg,19,1,1,224,hi,3,chicken nuggets2
+stimuli/cherry tomato.jpg,18,0,1,231,lo,1,cherry tomato
+stimuli/Pretzels.jpg,50,0,1,236,lo,1,Pretzels
+stimuli/grilled cheese.jpg,32,1,1,241,hi,3,grilled cheese
+stimuli/Hershey Kisses.jpg,34,1,1,248,hi,2,Hershey Kisses
+stimuli/Tribe hummus pita.jpg,71,1,1,254,hi,2,Tribe hummus pita
+stimuli/rigatoni.jpg,56,0,0,260,lo,3,rigatoni
+stimuli/m_and_m.jpg,39,1,1,267,hi,1,m_and_m
+stimuli/mashed potato.jpg,41,1,1,272,hi,2,mashed potato
+stimuli/avocado.jpg,5,1,0,278,hi,7,avocado
+stimuli/ice cream sundae 002.jpg,36,1,1,289,hi,2,ice cream sundae 002
+stimuli/rigatoni and sauce.jpg,55,0,0,295,lo,2,rigatoni and sauce
+stimuli/bagel and cc.jpg,7,1,1,301,hi,1,bagel and cc
+stimuli/peaches.jpg,47,0,0,306,lo,4,peaches
+stimuli/eggs.jpg,25,1,1,314,hi,1,eggs
+stimuli/reeses.jpg,53,1,1,319,hi,5,reeses
+stimuli/cherries.jpg,17,0,0,328,lo,1,cherries
+stimuli/ritz.jpg,57,1,1,333,hi,4,ritz
+stimuli/salad w chicken.jpg,58,1,1,341,hi,1,salad w chicken
+stimuli/air popcorn.jpg,2,0,1,346,lo,2,air popcorn
+stimuli/raisin bran w milk.jpg,51,0,1,352,lo,3,raisin bran w milk
+stimuli/yogurt no spoon.jpg,75,0,1,359,lo,4,yogurt no spoon
+stimuli/yellow popcorn.jpg,74,1,1,367,hi,1,yellow popcorn
+stimuli/pizza.jpg,49,1,1,372,hi,2,pizza
+stimuli/strawberries.jpg,66,0,1,378,lo,2,strawberries
+stimuli/french fries.jpg,26,1,1,384,hi,1,french fries
+stimuli/bagel plain.jpg,8,0,1,389,lo,2,bagel plain
+stimuli/tacos.jpg,69,1,0,395,hi,3,tacos
+stimuli/Skim milk.jpg,61,0,1,402,lo,5,Skim milk
+stimuli/hotdog w must.jpg,35,1,1,411,hi,5,hotdog w must
+stimuli/pickles.jpg,48,0,1,420,lo,1,pickles
+stimuli/apple slices.jpg,4,0,1,425,lo,1,apple slices
+stimuli/banana.jpg,11,0,1,430,lo,1,banana
+stimuli/lollipops.jpg,38,0,1,435,lo,1,lollipops
+stimuli/brownie.jpg,13,1,1,440,hi,8,brownie
+stimuli/trail mix.jpg,70,1,1,452,hi,1,trail mix
+stimuli/fried eggs.jpg,27,1,1,457,hi,1,fried eggs
+stimuli/celery and carrot sticks.jpg,15,0,1,462,lo,2,celery and carrot sticks
+stimuli/saltines.jpg,59,0,1,468,lo,1,saltines
+stimuli/cupcakes am.jpg,23,1,1,473,hi,3,cupcakes am

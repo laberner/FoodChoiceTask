@@ -1,0 +1,77 @@
+food,image,fat,available,trialstart,hilo,tempname,food_item
+stimuli/strawberries.jpg,66,0,1,0,lo,1,strawberries
+stimuli/soup with spoon.jpg,62,0,1,5,lo,1,soup with spoon
+stimuli/Hershey Kisses.jpg,34,1,1,10,hi,4,Hershey Kisses
+stimuli/Pretzels.jpg,50,0,1,18,lo,4,Pretzels
+stimuli/american cheese.jpg,3,1,1,26,hi,1,american cheese
+stimuli/green beans.jpg,31,0,1,31,lo,2,green beans
+stimuli/raisin bran w milk.jpg,51,0,1,37,lo,2,raisin bran w milk
+stimuli/Grapes.jpg,30,0,1,43,lo,1,Grapes
+stimuli/raisins.jpg,52,0,1,48,lo,1,raisins
+stimuli/rigatoni.jpg,56,0,0,53,lo,2,rigatoni
+stimuli/fried eggs.jpg,27,1,1,59,hi,3,fried eggs
+stimuli/salad w chicken.jpg,58,1,1,66,hi,2,salad w chicken
+stimuli/grilled chicken strips.jpg,33,0,1,72,lo,3,grilled chicken strips
+stimuli/grilled cheese.jpg,32,1,1,79,hi,1,grilled cheese
+stimuli/Tribe hummus pita.jpg,71,1,1,84,hi,1,Tribe hummus pita
+stimuli/air popcorn.jpg,2,0,1,89,lo,3,air popcorn
+stimuli/baked potato.jpg,10,0,0,96,lo,1,baked potato
+stimuli/banana.jpg,11,0,1,101,lo,3,banana
+stimuli/yogurt no spoon.jpg,75,0,1,108,lo,1,yogurt no spoon
+stimuli/avocado.jpg,5,1,0,113,hi,2,avocado
+stimuli/mashed potato.jpg,41,1,1,119,hi,1,mashed potato
+stimuli/celery and carrot sticks.jpg,15,0,1,124,lo,1,celery and carrot sticks
+stimuli/sushi w_condiments.jpg,68,0,1,129,lo,1,sushi w_condiments
+stimuli/kiwi.jpg,37,0,0,134,lo,5,kiwi
+stimuli/trail mix.jpg,70,1,1,143,hi,1,trail mix
+stimuli/eggs.jpg,25,1,1,148,hi,3,eggs
+stimuli/ice cream sundae 002.jpg,36,1,1,155,hi,2,ice cream sundae 002
+stimuli/PB.jpg,46,1,1,161,hi,2,PB
+stimuli/rice cakes.jpg,54,0,1,167,lo,2,rice cakes
+stimuli/bagel plain.jpg,8,0,1,173,lo,1,bagel plain
+stimuli/yogurt pretzels.jpg,76,1,1,178,hi,2,yogurt pretzels
+stimuli/pizza.jpg,49,1,1,184,hi,4,pizza
+stimuli/mini muffins.jpg,42,1,1,192,hi,3,mini muffins
+stimuli/peaches.jpg,47,0,0,199,lo,1,peaches
+stimuli/hotdog w must.jpg,35,1,1,204,hi,6,hotdog w must
+stimuli/doughnuts.jpg,24,1,1,214,hi,1,doughnuts
+stimuli/burger.jpg,14,1,0,219,hi,1,burger
+stimuli/cupcakes am.jpg,23,1,1,224,hi,5,cupcakes am
+stimuli/tacos.jpg,69,1,0,233,hi,2,tacos
+stimuli/1permilk.jpg,1,0,1,239,lo,2,1permilk
+stimuli/baby cheese.jpg,6,1,1,245,hi,5,baby cheese
+stimuli/granola w milk.jpg,29,1,1,254,hi,1,granola w milk
+stimuli/bagel and cc.jpg,7,1,1,259,hi,1,bagel and cc
+stimuli/lollipops.jpg,38,0,1,264,lo,2,lollipops
+stimuli/french fries.jpg,26,1,1,270,hi,1,french fries
+stimuli/brownie.jpg,13,1,1,275,hi,1,brownie
+stimuli/soy chips.jpg,64,0,0,280,lo,7,soy chips
+stimuli/rigatoni and sauce.jpg,55,0,0,291,lo,1,rigatoni and sauce
+stimuli/steak.jpg,65,1,0,296,hi,1,steak
+stimuli/sour patch.jpg,63,0,1,301,lo,5,sour patch
+stimuli/corn cob.jpg,21,0,0,310,lo,7,corn cob
+stimuli/cucumber slices.jpg,22,0,1,321,lo,2,cucumber slices
+stimuli/Skim milk.jpg,61,0,1,327,lo,1,Skim milk
+stimuli/mac & cheese.jpg,40,1,1,332,hi,1,mac & cheese
+stimuli/orange slices.jpg,45,0,1,337,lo,2,orange slices
+stimuli/cherry tomato.jpg,18,0,1,343,lo,3,cherry tomato
+stimuli/Whole milk.jpg,73,1,1,350,hi,1,Whole milk
+stimuli/apple slices.jpg,4,0,1,355,lo,5,apple slices
+stimuli/reeses.jpg,53,1,1,364,hi,2,reeses
+stimuli/seaweed.jpg,60,0,1,370,lo,3,seaweed
+stimuli/mozzarella sticks.jpg,43,1,1,377,hi,3,mozzarella sticks
+stimuli/broccoli cauliflower.jpg,12,0,1,384,lo,1,broccoli cauliflower
+stimuli/Cheese nachos.jpg,16,1,0,389,hi,1,Cheese nachos
+stimuli/chicken nuggets2.jpg,19,1,1,394,hi,8,chicken nuggets2
+stimuli/mushrooms.jpg,44,0,1,406,lo,1,mushrooms
+stimuli/turkey sandwich.jpg,72,0,1,411,lo,1,turkey sandwich
+stimuli/yellow popcorn.jpg,74,1,1,416,hi,1,yellow popcorn
+stimuli/string cheese.jpg,67,1,1,421,hi,6,string cheese
+stimuli/m_and_m.jpg,39,1,1,431,hi,4,m_and_m
+stimuli/cherries.jpg,17,0,0,439,lo,2,cherries
+stimuli/ritz.jpg,57,1,1,445,hi,1,ritz
+stimuli/pickles.jpg,48,0,1,450,lo,2,pickles
+stimuli/saltines.jpg,59,0,1,456,lo,2,saltines
+stimuli/froot loops w milk.jpg,28,0,1,462,lo,1,froot loops w milk
+stimuli/baguette oil.jpg,9,1,1,467,hi,1,baguette oil
+stimuli/cookies.jpg,20,1,1,472,hi,4,cookies

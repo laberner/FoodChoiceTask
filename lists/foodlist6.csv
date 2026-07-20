@@ -1,0 +1,77 @@
+food,image,fat,available,trialstart,hilo,tempname,food_item
+stimuli/reeses.jpg,53,1,1,0,hi,1,reeses
+stimuli/american cheese.jpg,3,1,1,5,hi,1,american cheese
+stimuli/rigatoni and sauce.jpg,55,0,0,10,lo,1,rigatoni and sauce
+stimuli/cucumber slices.jpg,22,0,1,21,lo,1,cucumber slices
+stimuli/mashed potato.jpg,41,1,1,26,hi,7,mashed potato
+stimuli/Grapes.jpg,30,0,1,31,lo,4,Grapes
+stimuli/cookies.jpg,20,1,1,36,hi,1,cookies
+stimuli/Hershey Kisses.jpg,34,1,1,41,hi,1,Hershey Kisses
+stimuli/apple slices.jpg,4,0,1,47,lo,7,apple slices
+stimuli/chicken nuggets2.jpg,19,1,1,53,hi,1,chicken nuggets2
+stimuli/granola w milk.jpg,29,1,1,60,hi,1,granola w milk
+stimuli/ritz.jpg,57,1,1,67,hi,2,ritz
+stimuli/mushrooms.jpg,44,0,1,73,lo,2,mushrooms
+stimuli/lollipops.jpg,38,0,1,79,lo,4,lollipops
+stimuli/cherries.jpg,17,0,0,84,lo,2,cherries
+stimuli/raisins.jpg,52,0,1,90,lo,1,raisins
+stimuli/eggs.jpg,25,1,1,98,hi,2,eggs
+stimuli/yogurt pretzels.jpg,76,1,1,104,hi,3,yogurt pretzels
+stimuli/pickles.jpg,48,0,1,109,lo,1,pickles
+stimuli/Cheese nachos.jpg,16,1,0,115,hi,3,Cheese nachos
+stimuli/corn cob.jpg,21,0,0,120,lo,3,corn cob
+stimuli/hotdog w must.jpg,35,1,1,125,hi,2,hotdog w must
+stimuli/yellow popcorn.jpg,74,1,1,135,hi,2,yellow popcorn
+stimuli/celery and carrot sticks.jpg,15,0,1,140,lo,1,celery and carrot sticks
+stimuli/rigatoni.jpg,56,0,0,154,lo,5,rigatoni
+stimuli/baguette oil.jpg,9,1,1,159,hi,1,baguette oil
+stimuli/pizza.jpg,49,1,1,164,hi,2,pizza
+stimuli/banana.jpg,11,0,1,173,lo,1,banana
+stimuli/mini muffins.jpg,42,1,1,178,hi,4,mini muffins
+stimuli/mozzarella sticks.jpg,43,1,1,185,hi,2,mozzarella sticks
+stimuli/rice cakes.jpg,54,0,1,190,lo,1,rice cakes
+stimuli/bagel and cc.jpg,7,1,1,196,hi,1,bagel and cc
+stimuli/saltines.jpg,59,0,1,201,lo,2,saltines
+stimuli/strawberries.jpg,66,0,1,208,lo,1,strawberries
+stimuli/raisin bran w milk.jpg,51,0,1,213,lo,6,raisin bran w milk
+stimuli/ice cream sundae 002.jpg,36,1,1,218,hi,2,ice cream sundae 002
+stimuli/turkey sandwich.jpg,72,0,1,228,lo,1,turkey sandwich
+stimuli/trail mix.jpg,70,1,1,233,hi,1,trail mix
+stimuli/brownie.jpg,13,1,1,239,hi,1,brownie
+stimuli/french fries.jpg,26,1,1,244,hi,6,french fries
+stimuli/kiwi.jpg,37,0,0,249,lo,2,kiwi
+stimuli/grilled cheese.jpg,32,1,1,257,hi,1,grilled cheese
+stimuli/salad w chicken.jpg,58,1,1,268,hi,10,salad w chicken
+stimuli/fried eggs.jpg,27,1,1,274,hi,1,fried eggs
+stimuli/cherry tomato.jpg,18,0,1,282,lo,5,cherry tomato
+stimuli/string cheese.jpg,67,1,1,288,hi,1,string cheese
+stimuli/yogurt no spoon.jpg,75,0,1,293,lo,4,yogurt no spoon
+stimuli/broccoli cauliflower.jpg,12,0,1,298,lo,1,broccoli cauliflower
+stimuli/Skim milk.jpg,61,0,1,305,lo,3,Skim milk
+stimuli/orange slices.jpg,45,0,1,310,lo,4,orange slices
+stimuli/Pretzels.jpg,50,0,1,319,lo,1,Pretzels
+stimuli/green beans.jpg,31,0,1,324,lo,1,green beans
+stimuli/grilled chicken strips.jpg,33,0,1,329,lo,3,grilled chicken strips
+stimuli/baby cheese.jpg,6,1,1,335,hi,5,baby cheese
+stimuli/steak.jpg,65,1,0,340,hi,1,steak
+stimuli/sour patch.jpg,63,0,1,350,lo,1,sour patch
+stimuli/cupcakes am.jpg,23,1,1,355,hi,3,cupcakes am
+stimuli/soy chips.jpg,64,0,0,361,lo,1,soy chips
+stimuli/baked potato.jpg,10,0,0,370,lo,3,baked potato
+stimuli/1permilk.jpg,1,0,1,378,lo,1,1permilk
+stimuli/soup with spoon.jpg,62,0,1,383,lo,1,soup with spoon
+stimuli/Whole milk.jpg,73,1,1,390,hi,1,Whole milk
+stimuli/doughnuts.jpg,24,1,1,398,hi,2,doughnuts
+stimuli/m_and_m.jpg,39,1,1,403,hi,1,m_and_m
+stimuli/peaches.jpg,47,0,0,408,lo,3,peaches
+stimuli/air popcorn.jpg,2,0,1,415,lo,3,air popcorn
+stimuli/froot loops w milk.jpg,28,0,1,420,lo,1,froot loops w milk
+stimuli/avocado.jpg,5,1,0,425,hi,3,avocado
+stimuli/bagel plain.jpg,8,0,1,432,lo,2,bagel plain
+stimuli/seaweed.jpg,60,0,1,437,lo,1,seaweed
+stimuli/burger.jpg,14,1,0,442,hi,1,burger
+stimuli/tacos.jpg,69,1,0,449,hi,1,tacos
+stimuli/mac & cheese.jpg,40,1,1,456,hi,6,mac & cheese
+stimuli/PB.jpg,46,1,1,461,hi,1,PB
+stimuli/Tribe hummus pita.jpg,71,1,1,467,hi,2,Tribe hummus pita
+stimuli/sushi w_condiments.jpg,68,0,1,472,lo,4,sushi w_condiments

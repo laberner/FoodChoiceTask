@@ -1,0 +1,77 @@
+food,image,fat,available,trialstart,hilo,tempname,food_item
+stimuli/Whole milk.jpg,73,1,1,0,hi,1,Whole milk
+stimuli/strawberries.jpg,66,0,1,5,lo,1,strawberries
+stimuli/air popcorn.jpg,2,0,1,14,lo,2,air popcorn
+stimuli/cupcakes am.jpg,23,1,1,20,hi,5,cupcakes am
+stimuli/cherry tomato.jpg,18,0,1,25,lo,1,cherry tomato
+stimuli/broccoli cauliflower.jpg,12,0,1,33,lo,1,broccoli cauliflower
+stimuli/raisin bran w milk.jpg,51,0,1,38,lo,4,raisin bran w milk
+stimuli/avocado.jpg,5,1,0,47,hi,2,avocado
+stimuli/mac & cheese.jpg,40,1,1,54,hi,1,mac & cheese
+stimuli/ritz.jpg,57,1,1,59,hi,4,ritz
+stimuli/american cheese.jpg,3,1,1,64,hi,1,american cheese
+stimuli/celery and carrot sticks.jpg,15,0,1,69,lo,1,celery and carrot sticks
+stimuli/Hershey Kisses.jpg,34,1,1,76,hi,5,Hershey Kisses
+stimuli/banana.jpg,11,0,1,82,lo,4,banana
+stimuli/ice cream sundae 002.jpg,36,1,1,87,hi,3,ice cream sundae 002
+stimuli/bagel plain.jpg,8,0,1,98,lo,1,bagel plain
+stimuli/corn cob.jpg,21,0,0,103,lo,1,corn cob
+stimuli/hotdog w must.jpg,35,1,1,113,hi,1,hotdog w must
+stimuli/froot loops w milk.jpg,28,0,1,118,lo,4,froot loops w milk
+stimuli/french fries.jpg,26,1,1,124,hi,1,french fries
+stimuli/grilled chicken strips.jpg,33,0,1,129,lo,2,grilled chicken strips
+stimuli/rigatoni.jpg,56,0,0,136,lo,1,rigatoni
+stimuli/salad w chicken.jpg,58,1,1,141,hi,1,salad w chicken
+stimuli/doughnuts.jpg,24,1,1,146,hi,3,doughnuts
+stimuli/Pretzels.jpg,50,0,1,153,lo,7,Pretzels
+stimuli/mashed potato.jpg,41,1,1,161,hi,2,mashed potato
+stimuli/apple slices.jpg,4,0,1,167,lo,4,apple slices
+stimuli/chicken nuggets2.jpg,19,1,1,180,hi,1,chicken nuggets2
+stimuli/Grapes.jpg,30,0,1,185,lo,1,Grapes
+stimuli/yogurt pretzels.jpg,76,1,1,190,hi,7,yogurt pretzels
+stimuli/eggs.jpg,25,1,1,197,hi,1,eggs
+stimuli/Cheese nachos.jpg,16,1,0,204,hi,6,Cheese nachos
+stimuli/bagel and cc.jpg,7,1,1,209,hi,1,bagel and cc
+stimuli/raisins.jpg,52,0,1,214,lo,2,raisins
+stimuli/mini muffins.jpg,42,1,1,219,hi,2,mini muffins
+stimuli/lollipops.jpg,38,0,1,226,lo,2,lollipops
+stimuli/cucumber slices.jpg,22,0,1,231,lo,1,cucumber slices
+stimuli/fried eggs.jpg,27,1,1,237,hi,1,fried eggs
+stimuli/seaweed.jpg,60,0,1,242,lo,1,seaweed
+stimuli/yellow popcorn.jpg,74,1,1,247,hi,3,yellow popcorn
+stimuli/reeses.jpg,53,1,1,253,hi,1,reeses
+stimuli/pizza.jpg,49,1,1,258,hi,1,pizza
+stimuli/brownie.jpg,13,1,1,263,hi,3,brownie
+stimuli/trail mix.jpg,70,1,1,271,hi,4,trail mix
+stimuli/rigatoni and sauce.jpg,55,0,0,276,lo,3,rigatoni and sauce
+stimuli/saltines.jpg,59,0,1,284,lo,1,saltines
+stimuli/cookies.jpg,20,1,1,289,hi,2,cookies
+stimuli/steak.jpg,65,1,0,294,hi,9,steak
+stimuli/yogurt no spoon.jpg,75,0,1,302,lo,2,yogurt no spoon
+stimuli/turkey sandwich.jpg,72,0,1,308,lo,1,turkey sandwich
+stimuli/soy chips.jpg,64,0,0,313,lo,5,soy chips
+stimuli/Tribe hummus pita.jpg,71,1,1,324,hi,1,Tribe hummus pita
+stimuli/tacos.jpg,69,1,0,332,hi,1,tacos
+stimuli/mozzarella sticks.jpg,43,1,1,337,hi,3,mozzarella sticks
+stimuli/green beans.jpg,31,0,1,343,lo,1,green beans
+stimuli/sour patch.jpg,63,0,1,349,lo,2,sour patch
+stimuli/soup with spoon.jpg,62,0,1,354,lo,3,soup with spoon
+stimuli/pickles.jpg,48,0,1,359,lo,3,pickles
+stimuli/PB.jpg,46,1,1,366,hi,3,PB
+stimuli/1permilk.jpg,1,0,1,371,lo,1,1permilk
+stimuli/Skim milk.jpg,61,0,1,377,lo,1,Skim milk
+stimuli/rice cakes.jpg,54,0,1,382,lo,6,rice cakes
+stimuli/mushrooms.jpg,44,0,1,391,lo,1,mushrooms
+stimuli/burger.jpg,14,1,0,396,hi,1,burger
+stimuli/peaches.jpg,47,0,0,402,lo,2,peaches
+stimuli/kiwi.jpg,37,0,0,409,lo,1,kiwi
+stimuli/sushi w_condiments.jpg,68,0,1,416,lo,2,sushi w_condiments
+stimuli/cherries.jpg,17,0,0,421,lo,6,cherries
+stimuli/baked potato.jpg,10,0,0,426,lo,1,baked potato
+stimuli/grilled cheese.jpg,32,1,1,436,hi,1,grilled cheese
+stimuli/granola w milk.jpg,29,1,1,441,hi,1,granola w milk
+stimuli/baby cheese.jpg,6,1,1,447,hi,3,baby cheese
+stimuli/m_and_m.jpg,39,1,1,452,hi,1,m_and_m
+stimuli/baguette oil.jpg,9,1,1,458,hi,2,baguette oil
+stimuli/orange slices.jpg,45,0,1,468,lo,3,orange slices
+stimuli/string cheese.jpg,67,1,1,473,hi,1,string cheese

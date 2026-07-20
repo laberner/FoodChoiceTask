@@ -1,0 +1,77 @@
+food,image,fat,available,trialstart,hilo,tempname,food_item
+stimuli/m_and_m.jpg,39,1,1,0,hi,1,m_and_m
+stimuli/yogurt pretzels.jpg,76,1,1,5,hi,3,yogurt pretzels
+stimuli/mozzarella sticks.jpg,43,1,1,12,hi,1,mozzarella sticks
+stimuli/yogurt no spoon.jpg,75,0,1,17,lo,2,yogurt no spoon
+stimuli/corn cob.jpg,21,0,0,23,lo,3,corn cob
+stimuli/1permilk.jpg,1,0,1,30,lo,1,1permilk
+stimuli/reeses.jpg,53,1,1,35,hi,2,reeses
+stimuli/kiwi.jpg,37,0,0,41,lo,1,kiwi
+stimuli/orange slices.jpg,45,0,1,46,lo,4,orange slices
+stimuli/baby cheese.jpg,6,1,1,54,hi,1,baby cheese
+stimuli/Tribe hummus pita.jpg,71,1,1,59,hi,1,Tribe hummus pita
+stimuli/rigatoni and sauce.jpg,55,0,0,64,lo,2,rigatoni and sauce
+stimuli/Cheese nachos.jpg,16,1,0,70,hi,1,Cheese nachos
+stimuli/bagel plain.jpg,8,0,1,75,lo,2,bagel plain
+stimuli/burger.jpg,14,1,0,81,hi,2,burger
+stimuli/air popcorn.jpg,2,0,1,87,lo,2,air popcorn
+stimuli/string cheese.jpg,67,1,1,93,hi,1,string cheese
+stimuli/celery and carrot sticks.jpg,15,0,1,98,lo,3,celery and carrot sticks
+stimuli/raisin bran w milk.jpg,51,0,1,105,lo,1,raisin bran w milk
+stimuli/seaweed.jpg,60,0,1,110,lo,1,seaweed
+stimuli/green beans.jpg,31,0,1,115,lo,7,green beans
+stimuli/sushi w_condiments.jpg,68,0,1,126,lo,1,sushi w_condiments
+stimuli/baguette oil.jpg,9,1,1,131,hi,4,baguette oil
+stimuli/grilled cheese.jpg,32,1,1,139,hi,1,grilled cheese
+stimuli/eggs.jpg,25,1,1,144,hi,2,eggs
+stimuli/Hershey Kisses.jpg,34,1,1,150,hi,1,Hershey Kisses
+stimuli/apple slices.jpg,4,0,1,155,lo,1,apple slices
+stimuli/rigatoni.jpg,56,0,0,160,lo,1,rigatoni
+stimuli/hotdog w must.jpg,35,1,1,165,hi,1,hotdog w must
+stimuli/grilled chicken strips.jpg,33,0,1,170,lo,1,grilled chicken strips
+stimuli/trail mix.jpg,70,1,1,175,hi,6,trail mix
+stimuli/mini muffins.jpg,42,1,1,185,hi,2,mini muffins
+stimuli/Pretzels.jpg,50,0,1,191,lo,1,Pretzels
+stimuli/fried eggs.jpg,27,1,1,196,hi,5,fried eggs
+stimuli/granola w milk.jpg,29,1,1,205,hi,1,granola w milk
+stimuli/chicken nuggets2.jpg,19,1,1,210,hi,5,chicken nuggets2
+stimuli/broccoli cauliflower.jpg,12,0,1,219,lo,2,broccoli cauliflower
+stimuli/soy chips.jpg,64,0,0,225,lo,3,soy chips
+stimuli/pickles.jpg,48,0,1,232,lo,8,pickles
+stimuli/lollipops.jpg,38,0,1,244,lo,2,lollipops
+stimuli/froot loops w milk.jpg,28,0,1,250,lo,1,froot loops w milk
+stimuli/cucumber slices.jpg,22,0,1,255,lo,3,cucumber slices
+stimuli/banana.jpg,11,0,1,262,lo,4,banana
+stimuli/bagel and cc.jpg,7,1,1,270,hi,2,bagel and cc
+stimuli/PB.jpg,46,1,1,276,hi,3,PB
+stimuli/peaches.jpg,47,0,0,283,lo,1,peaches
+stimuli/ice cream sundae 002.jpg,36,1,1,288,hi,6,ice cream sundae 002
+stimuli/Skim milk.jpg,61,0,1,298,lo,1,Skim milk
+stimuli/Grapes.jpg,30,0,1,303,lo,2,Grapes
+stimuli/cupcakes am.jpg,23,1,1,309,hi,1,cupcakes am
+stimuli/soup with spoon.jpg,62,0,1,314,lo,5,soup with spoon
+stimuli/salad w chicken.jpg,58,1,1,323,hi,2,salad w chicken
+stimuli/mac & cheese.jpg,40,1,1,329,hi,2,mac & cheese
+stimuli/saltines.jpg,59,0,1,335,lo,1,saltines
+stimuli/doughnuts.jpg,24,1,1,340,hi,3,doughnuts
+stimuli/Whole milk.jpg,73,1,1,347,hi,6,Whole milk
+stimuli/mushrooms.jpg,44,0,1,357,lo,1,mushrooms
+stimuli/pizza.jpg,49,1,1,362,hi,1,pizza
+stimuli/steak.jpg,65,1,0,367,hi,1,steak
+stimuli/yellow popcorn.jpg,74,1,1,372,hi,4,yellow popcorn
+stimuli/cherry tomato.jpg,18,0,1,380,lo,3,cherry tomato
+stimuli/mashed potato.jpg,41,1,1,387,hi,3,mashed potato
+stimuli/raisins.jpg,52,0,1,394,lo,2,raisins
+stimuli/turkey sandwich.jpg,72,0,1,400,lo,2,turkey sandwich
+stimuli/strawberries.jpg,66,0,1,406,lo,1,strawberries
+stimuli/french fries.jpg,26,1,1,411,hi,4,french fries
+stimuli/rice cakes.jpg,54,0,1,419,lo,1,rice cakes
+stimuli/baked potato.jpg,10,0,0,424,lo,1,baked potato
+stimuli/cherries.jpg,17,0,0,429,lo,7,cherries
+stimuli/american cheese.jpg,3,1,1,440,hi,2,american cheese
+stimuli/tacos.jpg,69,1,0,446,hi,1,tacos
+stimuli/ritz.jpg,57,1,1,451,hi,1,ritz
+stimuli/cookies.jpg,20,1,1,456,hi,2,cookies
+stimuli/sour patch.jpg,63,0,1,462,lo,1,sour patch
+stimuli/avocado.jpg,5,1,0,467,hi,1,avocado
+stimuli/brownie.jpg,1,1,1,472,hi,4,brownie
