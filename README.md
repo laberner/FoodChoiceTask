@@ -11,15 +11,24 @@ Instructions to run:
 
 1. There are multiple parameters we are using for this task, and they can either be attached to the URL or entered on screen with the participant, whichever one is preferable. The following are the parameters and how to determine their values: 
 
-  A) participant: The participant ID 
+  A) participant: The participant ID
+  
   B) condition: 1 for ratings going from bad to good/unhealthy to healthy; 2 for ratings going from good to bad/healthy to unhealthy 
+  
   C) order: TH for taste then health; HT for health then taste; can leave it blank if you're only running the choice block 
+  
   D) h_list: 1, 2, 3, 4, 5 or 6 (health block list number) 
+  
   E) t_list: 1, 2, 3, 4, 5 or 6 (taste block list number) 
+  
   F) c_list: 1, 2, 3, 4, 5 or 6 (choice block list number) 
+  
   G) run_h: 1 if you want to run the health block; 0 if not 
+  
   H) run_t: 1 if you want to run the taste block; 0 if not 
+  
   I) run_c: 1 if you want to run the choice block; 0 if not 
+  
   J) ref_food_item: This parameter is used only if you are running the choice block separately from the health and taste blocks. If they are being run at the same time, then this can be left blank. More details about how       to get the value for ref_food_item are in the next point. 
 
 2. If the health and taste blocks are not run at the same time as the choice block, there is no way for the code to know the reference food for the choice block; so we will be calculating it separately in that case. To do this, you will need to upload the participant's existing health and taste rating file(s) to the notebook "GetReferenceFood.ipynb" and run the code cell corresponding to the specific situation. 
